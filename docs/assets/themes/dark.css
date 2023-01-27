@@ -1,0 +1,39 @@
+:root{
+
+  --color-box-shadow-primary: 0 14px 28px rgb(38 35 35 / 55%), 0 10px 10px #111010;
+  --color-box-shadow-content: 0 1px 3px 1px #d3740042;
+  --color-box-shadow-input: 0 0 4px #cccccc;
+  --color-box-shadow-input-focus: 0 1px 6px darkorange;
+
+  --color-background-primary: darkorange;
+  --color-background-body:  #2b2b2d;
+  --color-background-button: #db6700;
+  --color-background-alert: #ca4e4e;
+  --color-background-box-part: linear-gradient(to right, #0d0d0d 0%, #363636 100%);
+  --color-background-poper: linear-gradient(to right, #0d0d0d 0%, #363636 100%);
+  --color-background-link-hover: linear-gradient(to right, #0d0d0d 0%, #363636 100%);
+  --color-background-link-hover-no-mobile: rgba(0, 0, 0, 0.32);
+  --color-background-input-text: #0d0d0d;
+  --color-background-dropdown: linear-gradient(to right, #0f0f0f 0%, #434242 100%);
+  --color-background-nabvar: rgba(33,37,41,1);
+
+  --color-border-primary: darkorange;
+  --color-border-button: #db6700;
+  --color-border-content: #343a40;
+  --color-border-content-primary: #343a40;
+  --color-border-input-focus: #2f2e2e;
+
+  --color-primary: darkorange;
+  --color-alert: #ffffff;
+  --color-link-hover-span: var(--color-primary);
+  --color-a-text: #f5c500 !important;
+  --color-text: whitesmoke;
+  --color-content: #e5e5e5;
+  --color-link: #f5c500;
+  --color-link-hover: #efda2c;
+  --color-dropdown: whitesmoke;
+  --color-navbar: whitesmoke !important;
+  --color-fa-icon: darkorange;
+  --color-popper: whitesmoke;
+  --color-button-fa-icon: whitesmoke;
+}
