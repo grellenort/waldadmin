@@ -6,6 +6,7 @@
   --color-box-shadow-input-focus: 0 1px 6px darkorange;
 
   --color-background-primary: darkorange;
+  --color-background-badge: darkorange;
   --color-background-body:  #2b2b2d;
   --color-background-button: #db6700;
   --color-background-alert: #ca4e4e;
@@ -16,6 +17,8 @@
   --color-background-input-text: #0d0d0d;
   --color-background-dropdown: linear-gradient(to right, #0f0f0f 0%, #434242 100%);
   --color-background-nabvar: rgba(33,37,41,1);
+  --color-background-card-chat: rgb(255, 255, 255);
+  --color-background-card-chat-answer: rgba(237, 240, 241, 0.68);
 
   --color-border-primary: darkorange;
   --color-border-button: #db6700;
@@ -36,4 +39,5 @@
   --color-fa-icon: darkorange;
   --color-popper: whitesmoke;
   --color-button-fa-icon: whitesmoke;
+  --color-pagination-text: whitesmoke;
 }
