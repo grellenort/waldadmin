@@ -1,0 +1,42 @@
+:root{
+
+  --color-box-shadow-primary: 0 14px 28px rgb(255, 255, 255), 0 10px 10px #c9c0c0;
+  --color-box-shadow-content: 0 1px 3px 1px rgb(51, 122, 192);
+  --color-box-shadow-input: 0 0 4px #cccccc;
+  --color-box-shadow-input-focus: 0 1px 6px #2C76F5FF;
+
+  --color-background-primary: #2c86f5;
+  --color-background-body:  whitesmoke;
+  --color-background-button: #0d6efd;
+  --color-background-alert: #d55e5e;
+  --color-background-box-part: linear-gradient(to right, #ffffff 0%, #ffffff 100%);
+  --color-background-link-hover: linear-gradient(to right, #ffffff 0%, #f3f0f0 100%);
+  --color-background-link-hover-no-mobile: rgba(162, 160, 160, 0.32);
+  --color-background-input-text: #ffffff;
+  --color-background-poper: linear-gradient(to right, #fffefe 0%, #363636 100%);
+  --color-background-dropdown: linear-gradient(to right, #ffffff 0%, #f1f1f1 100%);
+  --color-background-nabvar: #f8f9fa !important;
+  --color-background-card-chat: rgba(57, 192, 237,.2);
+  --color-background-card-chat-answer: rgba(166, 194, 203, 0.2);
+
+  --color-border-primary: #0d6efd;
+  --color-border-button: #0d6efd;
+  --color-border-content: #343a40;
+  --color-border-content-primary: #343a40;
+  --color-border-input-focus: #2C76F5FF;
+
+  --color-primary: #0d6efd;
+  --color-alert: #ffffff;
+  --color-link-hover-span: black;
+  --color-text: black;
+  --color-a-text: #0d6efd !important;
+  --color-content: black;
+  --color-link: #0d6efd;
+  --color-link-hover: #2C76F5FF;
+  --color-dropdown: black;
+  --color-navbar: black !important;
+  --color-fa-icon: #0d6efd;
+  --color-popper: black;
+  --color-button-fa-icon: whitesmoke;
+  --color-pagination-text: whitesmoke;
+}

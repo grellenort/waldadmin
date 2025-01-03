@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/write-us/write-us/write-us.component.scss"],
+  "sourcesContent": [".customize-short {\n  color: var(--color-text);\n  font-size: 10px;\n}\n\n.img-customizer {\n  width: 65px;\n  height: 65px;\n}\n\n@media only screen and (max-width: 600px) {\n  .card-body {\n    padding-top: 0 !important;\n    padding-bottom:0 !important;\n  }\n}\n\n"],
+  "mappings": ";AAAA,CAAA;AACE,SAAA,IAAA;AACA,aAAA;;AAGF,CAAA;AACE,SAAA;AACA,UAAA;;AAGF,OAAA,KAAA,OAAA,IAAA,CAAA,SAAA,EAAA;AACE,GAAA;AACE,iBAAA;AACA,oBAAA;;;",
+  "names": []
+}

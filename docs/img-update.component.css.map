@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/product/img/img-update.component.scss"],
+  "sourcesContent": ["\ninput[type=\"file\"] {\n  display: none;\n}\n\n.img-responsive {\n  max-width: 100%;\n  height: auto;\n}\n\n"],
+  "mappings": ";AACA,KAAA,CAAA;AACE,WAAA;;AAGF,CAAA;AACE,aAAA;AACA,UAAA;;",
+  "names": []
+}

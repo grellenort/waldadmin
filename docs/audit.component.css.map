@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/audit/audit.component.scss"],
+  "sourcesContent": [".container{\n  max-width: 280px;\n  color: #e5e5e5;\n  border-style: solid;\n  border-width: thin;\n  box-shadow: 0 1px 3px 1px #d3740042;\n  border-color: #343a40;\n  border-radius: 20px;\n  padding-top: 10px;\n  padding-bottom: 10px;\n}\n.customize-short{\n  color: var(--color-text);\n  width:95px;\n}\n.customize-long{\n  color: var(--color-text);\n  width:190px;\n}\n\n.badge{\n font-size: 0.85em;\n  font-weight: 500;\n}\n\n@media screen and (min-width: 487px) {\n  span:after {\n    content: attr(data-suffix);\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,aAAA;AACA,SAAA;AACA,gBAAA;AACA,gBAAA;AACA,cAAA,EAAA,IAAA,IAAA,IAAA,KAAA,GAAA,EAAA,GAAA,EAAA,CAAA,EAAA;AACA,gBAAA;AACA,iBAAA;AACA,eAAA;AACA,kBAAA;;AAEF,CAAA;AACE,SAAA,IAAA;AACA,SAAA;;AAEF,CAAA;AACE,SAAA,IAAA;AACA,SAAA;;AAGF,CAAA;AACC,aAAA;AACC,eAAA;;AAGF,OAAA,OAAA,IAAA,CAAA,SAAA,EAAA;AACE,MAAA;AACE,aAAA,KAAA;;;",
+  "names": []
+}

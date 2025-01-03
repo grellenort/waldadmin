@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/account/account-edit/account-edit.component.scss"],
+  "sourcesContent": ["\n.list-unstyled {\n  color: #e5e5e5;\n  text-align: left;\n}\n\n.child{\n  min-width: 100px;\n  width: 220px;\n  margin: 0 auto;\n}\n"],
+  "mappings": ";AACA,CAAA;AACE,SAAA;AACA,cAAA;;AAGF,CAAA;AACE,aAAA;AACA,SAAA;AACA,UAAA,EAAA;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/write-us/write-us-list/write-us-list.component.scss"],
+  "sourcesContent": ["input{\n  box-shadow: none !important;\n}\n"],
+  "mappings": ";AAAA;AACE,cAAA;;",
+  "names": []
+}
